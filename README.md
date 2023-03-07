@@ -15,5 +15,5 @@ Classification to predict whether a credit would be approved or not for a client
 -	Train/test split: with train (70%), test (30%) with random_state = 0
 -	Train the model
 -	Evaluate the model
--	
+
 ## Target: Achieve accuracy on test set >=0.90
